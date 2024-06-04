@@ -1,1 +1,1 @@
-console.log("hellow word")
+const pair = "extraordinaire";
